@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/Applogo.png</file>
+        <file>images/black.png</file>
+        <file>images/close.png</file>
+        <file>images/Customer Copy.png</file>
+        <file>images/CustomerService.png</file>
+        <file>images/etc.png</file>
+        <file>images/exit.png</file>
+        <file>images/fileimg.png</file>
+        <file>images/girl1.png</file>
+        <file>images/loading4.gif</file>
+        <file>images/login-images.png</file>
+        <file>images/logo.png</file>
+        <file>images/Logonbg.png</file>
+        <file>images/menu.png</file>
+        <file>images/menu2.png</file>
+        <file>images/open.png</file>
+        <file>images/refresh.png</file>
+        <file>images/save.png</file>
+        <file>images/search.png</file>
+        <file>images/start.png</file>
+        <file>images/etc02.png</file>
+        <file>images/tool.png</file>
+        <file>images/e.png</file>
+        <file>images/shan.png</file>
+    </qresource>
+</RCC>
