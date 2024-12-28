@@ -33,7 +33,7 @@ void LoginDialog::on_loginPushButton_clicked()
 /**----------实现登录验证功能----------*/
 void LoginDialog::showWeiChatWindow()
 {
-    QFile file("D:\\qt_test\\network\\userlog.xml");						//创建XML文件对象
+    QFile file("D:\\Qt_projects\\Qt_projects\\network\\userlog.xml");						//创建XML文件对象
     mydoc.setContent(&file);		//将XML对象赋给QdomDocument类型的Qt文档句柄
     QDomElement root = mydoc.documentElement();		//获取XML文档的DOM根元素
     if(root.hasChildNodes())
